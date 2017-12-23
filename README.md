@@ -1,5 +1,5 @@
 # jingle_bells_adafruit_circuit_playground
-Add a bit of Christmas music to your Circuit Playground Express by playing Jingle Bells with some basic Neopixel accompaniment.
+Add a bit of xmas / christmas music to your Circuit Playground Express by playing Jingle Bells with some basic Neopixel accompaniment.
 
 This is based almost entirely on Adafruit's "The Sound of Music" demo code but modified for the Jingle Bell's melody and adding the Neopixel light stuff to alternate red/green around the ring when the note changes.
 
